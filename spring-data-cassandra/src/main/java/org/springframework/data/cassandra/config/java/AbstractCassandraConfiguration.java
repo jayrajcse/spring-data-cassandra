@@ -157,4 +157,5 @@ public abstract class AbstractCassandraConfiguration extends AbstractClusterConf
 	public SchemaAction getSchemaAction() {
 		return SchemaAction.NONE;
 	}
+	
 }
